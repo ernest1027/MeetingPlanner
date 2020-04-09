@@ -1,0 +1,12 @@
+body
+{
+	font-family: verdana;
+	background-color: lightblue;
+
+}
+table, th, td, tr
+{
+	border-width: 3px
+	border-color: black;
+}
+
